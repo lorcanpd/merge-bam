@@ -1,2 +1,5 @@
 TEST_DATA
-
+.idea
+*.egg-info
+build
+.DS_Store
