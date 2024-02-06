@@ -14,7 +14,7 @@ To install `merge-bam`, you will need Python 3.6 or higher. It is recommended to
 
 ```bash
 # Clone the repository (if available)
-git clone https://github.com/yourusername/merge-bam.git
+git clone https://github.com/lorcanpd/merge-bam.git
 cd merge-bam
 
 # Or download and extract the source code into a directory named merge-bam
